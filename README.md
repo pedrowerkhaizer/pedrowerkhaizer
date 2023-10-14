@@ -14,6 +14,5 @@ I'm a self-taught passionate FrontEnd developer from Brazil :brazil:
 
 <div>
   <a href="https://github.com/pedrowerkhaizer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrowerkhaizer&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrowerkhaizer&layout=compact&langs_count=7&theme=radical"/>
 </div>
