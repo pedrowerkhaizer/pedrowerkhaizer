@@ -15,3 +15,7 @@ I'm a self-taught passionate FrontEnd developer from Brazil :brazil:
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=pedrowerkhaizer&theme=dracula&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrowerkhaizer&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
 </div>
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=pedrowerkhaizer&label=Profile%20Views&color=12&icon=6&pretty=true" />
+</a>
